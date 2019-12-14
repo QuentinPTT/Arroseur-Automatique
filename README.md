@@ -1,3 +1,3 @@
-<H2 align="center">⛲ ARROSAGE AUTOMATIQUE ⛲</H2>
+<H1 align="center">⛲ ARROSAGE AUTOMATIQUE ⛲</H1>
 
-### A PROPOS DE 
+### Concernant le projet
