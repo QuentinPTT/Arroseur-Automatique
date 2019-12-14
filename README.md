@@ -10,7 +10,7 @@ Le but de ce TP est de réaliser un prototype d’arrosage automatique pour des 
 Posé près de la ou des plantes à surveiller, le montage surveille l’état de sécheresse de la terre à l’aide du capteur hygrométrique, en caractérisant la résistance de la terre entre deux électrodes. Cette information sert ensuite à activer si besoin une pompe, pilotée grâce à un “Motor Driver” afin d’alimenter les plantes en eau. De plus, le carte stockera toutes les 2h, les données du capteur hygrométrique et les enverra par Bluetooth Low Energy à une application android lorsque celui-ci s’y connectera afin d’avoir un historique du taux d'humidité.
 
 ## Téléchargement du code
-Ce TP a été réalisé essentiellement avec MakeCode et MitAppInventor
+<p>Ce TP a été réalisé essentiellement avec MakeCode et MitAppInventor.</p>
 
 ##### Partie Graphique sur MitAppInventor:
 <a href="https://travis-ci.org/laravel/framework"><img src="Téléchargez-ici-red.svg" alt="Graphique MAI"></a>
