@@ -13,13 +13,13 @@ Posé près de la ou des plantes à surveiller, le montage surveille l’état d
 <p>Ce TP a été réalisé essentiellement avec MakeCode et MitAppInventor.</p>
 
 ##### Partie Graphique sur MitAppInventor:
-<a href="https://travis-ci.org/laravel/framework"><img src="Téléchargez-ici-red.svg" alt="Graphique MAI"></a>
+<a href="https://github.com/QuentinPTT/Arroseur-Automatique/blob/pre-master/Graphique%20Comment%C3%A9.aia"><img src="Téléchargez-ici-red.svg" alt="Graphique MAI"></a>
 
 ##### Partie MakeCode finale:
-<a href="https://travis-ci.org/laravel/framework"><img src="Téléchargez-ici-red.svg" alt="Graphique MAI"></a>
+<a href="https://github.com/QuentinPTT/Arroseur-Automatique/blob/pre-master/microbit-Arroseur-Comment%C3%A9.hex"><img src="Téléchargez-ici-red.svg" alt="Graphique MAI"></a>
 
 ##### Partie MitAppInventor finale:
-<a href="https://travis-ci.org/laravel/framework"><img src="Téléchargez-ici-red.svg" alt="Graphique MAI"></a>
+<a href="https://github.com/QuentinPTT/Arroseur-Automatique/blob/pre-master/Arroseur%20Comment%C3%A9.aia"><img src="Téléchargez-ici-red.svg" alt="Graphique MAI"></a>
 
 ## Plus d'informations sur le dossier PDF:
 <a href="https://docs.google.com/document/d/14pEDN9yH_MJWTvuquaehPXq1K2sIEq5vdpamWrUoXD0/edit?usp=sharing"><img src="Dossier-PDF-blue.svg" alt="Graphique MAI"></a>
